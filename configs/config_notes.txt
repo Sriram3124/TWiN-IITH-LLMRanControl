@@ -1,0 +1,4 @@
+gNB: 106 PRBs, Numerology 1, Band 78, rfsim
+LLM: qwen3:14b via Ollama at localhost:11434
+Model: Q4_K_M quantization, 9.3 GB
+Controller: GAIN=25, Kp=0.25, loop_interval=3s, max_iter=8
